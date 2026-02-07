@@ -17,4 +17,4 @@ A Spotify-inspired web music player built using HTML, CSS, and JavaScript.
 
 ## How to Run
 1. Download or clone the repo
-2. Open `index.html` in a browser
+2. Open `spotify.html` in a browser
